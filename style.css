@@ -1,0 +1,114 @@
+
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      h2, p {
+        margin: 10px;
+      }
+
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: pink;
+        display: flex;
+        justify-content: center;
+      }
+
+
+
+      ul li {
+        /* float: left; */
+      }
+
+      ul li a {
+        display: block;
+        color: black;
+        font-style: italic;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul li:nth-child(1) a:hover {
+  background-color: lightpurple;
+}
+
+ul li:nth-child(2) a:hover {
+  background-color: lightyellow;
+}
+
+ul li:nth-child(3) a:hover {
+  background-color: lightblue;
+}
+
+ul li:nth-child(4) a:hover {
+  background-color: lightcoral;
+}
+
+ul li:nth-child(5) a:hover {
+  background-color: lightgreen;
+}
+
+
+h1{
+  margin:20px;
+  font-size: 40px;
+  text-align: center;
+  font-style: italic
+}
+
+h3{
+  margin: 20px; auto;
+  width: 80%;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.nationalPark{
+  display: block;
+  margin: 20px auto;
+}
+
+.unit2{
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+  height: 80%;
+}
+
+.up{
+   display: block;
+  margin: 20px auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.image{
+  width: 100px;
+  height: 100px
+}
+
+
+
+
+
+    
